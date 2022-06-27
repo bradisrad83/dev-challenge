@@ -100,8 +100,8 @@ There will be additional data returned from the API, but for this exercise, you 
 
 
 ### Brad's Instructions ###
-clone the folder
-cd into folder
-npm install
-npm run dev 
-go to the browers and go to localhost:3000 
+- clone the folder
+- cd into folder
+- npm install
+- npm run dev 
+- go to the browers and go to localhost:3000 
